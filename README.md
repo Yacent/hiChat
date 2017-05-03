@@ -10,10 +10,12 @@ You need to create a database locally and named it as "hichat"
 
 ### Front-end
 In the root of front-end Folder, open the base and run the command as follows
+	
 	$ npm install
 
 ### Back-end
 In the root of back-end Folder, open the base and run the command as follows
+	
 	$ npm install
 
 # How it works
